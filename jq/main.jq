@@ -1,4 +1,4 @@
-# http://rosettacode.org/wiki/Linear_congruential_generator#jq
+# https://rosettacode.org/wiki/Linear_congruential_generator#jq
 
 def RAND_MAX:
 	32767;
