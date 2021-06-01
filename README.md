@@ -6,6 +6,14 @@
 
 An implementation of the [Microsoft C Runtime `rand()`](https://rosettacode.org/wiki/Linear_congruential_generator) [pseudorandom number generator (PRNG)](https://en.wikipedia.org/wiki/Pseudorandom_number_generator) function. The range is `[0,32767]`.
 
+
+
+> ## ⚠️ This project has been archived
+>
+> No future updates are planned. Feel free to continue using it, but expect no support.
+
+
+
 This is a package for the command-line JSON processor [`jq`](https://stedolan.github.io/jq/). Install the package in your jq project/package directory with [`jqnpm`](https://github.com/joelpurra/jqnpm):
 
 ```bash
